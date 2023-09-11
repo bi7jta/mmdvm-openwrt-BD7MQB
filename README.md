@@ -1,3 +1,5 @@
+Get the MMDVM hardware and support by @BI7JTA www.bi7jta.org/wiki
+
 ```
      ____  ______________    ____ 
     / __ \/ ___/_  __/   |  / __ \
